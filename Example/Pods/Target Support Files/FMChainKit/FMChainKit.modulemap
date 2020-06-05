@@ -1,0 +1,6 @@
+framework module FMChainKit {
+  umbrella header "FMChainKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

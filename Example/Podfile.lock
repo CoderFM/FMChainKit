@@ -1,0 +1,16 @@
+PODS:
+  - FMChainKit (0.1.0)
+
+DEPENDENCIES:
+  - FMChainKit (from `../`)
+
+EXTERNAL SOURCES:
+  FMChainKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMChainKit: ff59fb8164330d5edbdab466788817b61c146d2c
+
+PODFILE CHECKSUM: fd1219831d5475afd3f77f6c6b854170f3607a66
+
+COCOAPODS: 1.9.2
